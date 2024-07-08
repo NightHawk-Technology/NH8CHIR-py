@@ -1,9 +1,0 @@
-MANIFEST.in
-README.md
-setup.py
-nh8chir/__init__.py
-nh8chir/nh8chir.py
-nh8chir.egg-info/PKG-INFO
-nh8chir.egg-info/SOURCES.txt
-nh8chir.egg-info/dependency_links.txt
-nh8chir.egg-info/top_level.txt
