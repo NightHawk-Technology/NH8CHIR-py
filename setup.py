@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='nh8chir',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     author='NightHawk Robotics',
-    author_email='dev@nhshop.tech',
+    author_email='devops@nh-robotics.tech',
     description='This library made for NH8CHIR sensor from NightHawk Robotics',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
